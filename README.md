@@ -83,11 +83,6 @@ I forked the original repository to:
 
 6. Open http://localhost:3000 in your browser.
 
-## Sample Screens
-
-(Add screenshots here for home page, login page, and book details)
-
-
 ## Connect with Me
 
 Mirza Safiulla Baig  
